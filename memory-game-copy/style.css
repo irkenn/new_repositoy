@@ -1,0 +1,51 @@
+h1{
+  font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    border-top: 10px;
+    border-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+p{
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+}
+
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 250px;
+  margin: 10px;
+  display: inline-block;  
+}
+
+.red{
+  /* background-image: url("https://thumbs.gfycat.com/FortunateFineHydatidtapeworm-size_restricted.gif"); */
+  background-color: red;
+}
+
+.blue{
+  /* background-image: url("https://thumbs.gfycat.com/UntimelyGrimyBlackfish-size_restricted.gif"); */
+  background-color: blue;
+
+}
+
+.green{
+ /* background-image: url(https://thumbs.gfycat.com/AdorableWellinformedBadger-size_restricted.gif); */
+ background-color: green;
+}
+
+.purple{
+  /* background-image: url(https://c.tenor.com/_fvtnMZODy0AAAAd/planet-mars-mars.gif); */
+  background-color: purple;
+}
+
+.orange{
+  /* background-image: url(https://i.gifer.com/2rRT.gif); */
+  background-color: orange;
+}
+
+.flipped{
+  background-color: beige;
+}
